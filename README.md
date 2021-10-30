@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @devel-pa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Paul
+- 👀 I’m interested in software
+- 🌱 I’m currently learning kubernetes
+- 💞️ I’m looking to collaborate on software development
+- 📫 How to reach me ... I'll think about :)
 
 <!---
 devel-pa/devel-pa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
