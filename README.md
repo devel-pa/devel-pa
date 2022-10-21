@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 👀 I’m interested in software
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently relearning C#
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ... I'll think about :)
 
